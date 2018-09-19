@@ -2,4 +2,4 @@
 The website content is placed here
 
 
-<img src=''/>
+<img src='images/main.jpg'/>
